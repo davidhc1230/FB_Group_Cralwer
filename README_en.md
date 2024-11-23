@@ -59,7 +59,7 @@ python crawler.py
 ```
 project/
 ├── crawler.py    # Main crawler script
-└── input.txt              # File containing group links
+└── input.txt     # File containing group links
 ```
 
 ---

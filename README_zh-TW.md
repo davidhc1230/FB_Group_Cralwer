@@ -59,7 +59,7 @@ python crawler.py
 ```
 project/
 ├── crawler.py    # 主爬蟲程式
-└── input.txt              # 包含社團連結的文件
+└── input.txt     # 包含社團連結的文件
 ```
 
 ---
